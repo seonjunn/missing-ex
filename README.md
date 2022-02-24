@@ -1,2 +1,3 @@
-# missing
-missing semseter exercises
+# missing-ex
+
+[**missing** semseter](https://missing.csail.mit.edu/) **ex**ercises
